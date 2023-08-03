@@ -1,6 +1,6 @@
 # Running `assembly-stats` on github pages.
 
-Demo:  https://ammaraziz.github.io/assembly-stats/
+Demo:  https://AliSaei.github.io/assembly-stats/
 
 ### Detailed instructions to run assembly-stats on github pages
 
@@ -20,7 +20,7 @@ Demo:  https://ammaraziz.github.io/assembly-stats/
     - Paste your own json file into the edit box
     - Under `Commit changes` enter a commit title (anything, doesnt matter)
     - Click commit
-- Go to the link saved above, mine is at https://ammaraziz.github.io/assembly-stats/ your link will look like https://{YourUserName}.github.io/assembly-stats/
+- Go to the link saved above, mine is at https://AliSaei.github.io/assembly-stats/ your link will look like https://{YourUserName}.github.io/assembly-stats/
 - Be patient, github is generating the webpage. Refresh a few times. If you are super impatient, click on `Actions` button to see the progress.
 
 ### Short instructions
